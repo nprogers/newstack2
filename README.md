@@ -1,5 +1,6 @@
 ![Hugo Coder Logotype](https://github.com/luizdepra/hugo-coder/blob/master/images/logos/logotype-a.png)
 
+hello i am changes
 A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
 ![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
